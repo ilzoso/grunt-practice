@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/ilzoso/grunt-practice.git"
   },
-  "author": "",
+  "author": "ilzoso",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ilzoso/grunt-practice/issues"
   },
-  "homepage": "https://github.com/ilzoso/grunt-practice#readme"
+  "homepage": "https://github.com/ilzoso/grunt-practice#readme",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  }
 }
