@@ -1,2 +1,2 @@
 # react-redux
-My attempt at React Redux
+My attempt at Grunt task practice
