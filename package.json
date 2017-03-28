@@ -1,0 +1,19 @@
+{
+  "name": "grunt-practice",
+  "version": "1.0.0",
+  "description": "Grunt Practice project",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilzoso/grunt-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilzoso/grunt-practice/issues"
+  },
+  "homepage": "https://github.com/ilzoso/grunt-practice#readme"
+}
